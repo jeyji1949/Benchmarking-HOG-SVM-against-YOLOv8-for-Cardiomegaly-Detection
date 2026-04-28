@@ -6,7 +6,7 @@
 
 ## 📋 Overview
 
-**BioVision Cardio** is a comparative machine learning project developed as part of the *Master BIAM — Bioinformatics & AI for Precision Medicine* program. It investigates two fundamentally different approaches to detecting **Cardiomegaly** (enlarged heart) from annotated Chest X-ray images:
+**BioVision Cardio** is a comparative machine learning project. It investigates two fundamentally different approaches to detecting **Cardiomegaly** (enlarged heart) from annotated Chest X-ray images:
 
 | Approach | Method | Philosophy |
 |----------|--------|------------|
@@ -190,9 +190,7 @@ This project is built around one central question:
 
 ## 👩‍💻 Author
 
-**Jihane El Khraibi**
-Master BIAM — Bioinformatics & AI for Precision Medicine
-Faculté des Sciences Dhar El Mahraz, Fès, Morocco
+**me xoxo**
 
 ---
 
