@@ -38,9 +38,9 @@ An enlarged heart silhouette is **geometrically distinctive** on a chest X-ray �
 BioVision-Cardio/
 │
 ├── 📓 notebooks/
-│   ├── 01_hog_svm_pipeline.ipynb       # Full HOG+SVM training pipeline
-│   ├── 02_model_verification.ipynb     # Cross-validation & visualization
-│   └── 03_yolov8_training.ipynb        # YOLOv8 setup & training (coming)
+│   ├── hog_svm_pipeline.ipynb       # Full HOG+SVM training pipeline
+│   ├── model_verification.ipynb     # Cross-validation & visualization
+│   └── yolov8_training.ipynb        # YOLOv8 setup & training (coming)
 │
 ├── 📊 results/
 │   ├── hog_svm_confusion.png           # Confusion matrix
